@@ -1,24 +1,23 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "E-Commerce_Back_End",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/coatsey/E-Commerce_Back_End.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+  "bugs": {
+    "url": "https://github.com/coatsey/E-Commerce_Back_End/issues"
   },
+  "homepage": "https://github.com/coatsey/E-Commerce_Back_End#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
